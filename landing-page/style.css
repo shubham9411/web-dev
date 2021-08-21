@@ -61,6 +61,7 @@ nav > ul a {
   text-align: center;
   max-width: calc(70%);
   margin: auto;
+  position: relative;
 }
 
 .headline h1 {
